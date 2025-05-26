@@ -35,7 +35,7 @@ A fully-integrated, deep learning-based fingerprint recognition and attendance s
 | Database       | PostgreSQL + `pgvector` extension |
 | Vector Search  | Cosine Similarity + HNSW Index    |
 | Dataset        | SOCOFing                          |
-| Image Handling | PIL, OpenCV                       |
+| Image Handling | PIL                       |
 
 ---
 
